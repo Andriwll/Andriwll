@@ -1,6 +1,6 @@
  Hi, I’m Andriwll
  
- I’m interested in game development and programming and general.
+ I’m interested in game development and programming in general.
 
  Currently going through college. Computer Science at UniRitter Porto Alegre.
  
