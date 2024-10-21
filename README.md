@@ -1,10 +1,10 @@
- Hi, I’m @Andriwll
+ Hi, I’m Andriwll
  
- I’m interested in Games and Incremental shit.
+ I’m interested in game development and programming and general.
 
- Currently daydreaming about Godot Engine
+ Currently going through college. Computer Science at UniRitter Porto Alegre.
  
- How to reach me: @bujja_
+ How to reach me: @bujja_ / llwirdna 
  
 <!---
 Andriwll/Andriwll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
