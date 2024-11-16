@@ -4,7 +4,7 @@
 
  Currently going through college. Computer Science at UniRitter Porto Alegre.
  
- How to reach me: @bujja_ / llwirdna 
+ How to reach me: llwirdna on instagram and Andriwll Machado on linkedin
  
 <!---
 Andriwll/Andriwll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
